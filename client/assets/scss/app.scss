@@ -1,0 +1,39 @@
+@import "settings";
+@import "foundation";
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%; }
+
+
+
+/*.navbar {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  left: 0;
+  right: 0;
+  width: 100%;
+  margin: 0;
+  background-color: #daecf7;
+  -webkit-box-shadow: 0px 10px 40px -13px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 10px 40px -13px rgba(0,0,0,0.75);
+  box-shadow: 0px 10px 40px -13px rgba(0,0,0,0.75);
+}
+
+.homePage {
+  width: 99%;
+  height: 99%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  background-image: radial-gradient(rgba(255, 255, 255, 0.7), rgba(80, 80, 80, 0.8)), url(../assets/home_1440_860.jpg);
+  background-size: cover;
+  background-position: center; */
+
+.colored{
+  height: 250px;
+  width: 250px;
+  background-color: black;
+};
